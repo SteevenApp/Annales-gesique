@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639983348851",
+    "project_id": "annales-gesique",
+    "storage_bucket": "annales-gesique.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639983348851:android:ad2512f8f2c38e672d4e06",
+        "android_client_info": {
+          "package_name": "com.steevenapp.annales_gesique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8E3-LmrzFdtB9-egXrVym9IOxCJM932Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
